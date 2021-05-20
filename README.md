@@ -212,7 +212,7 @@ pry(main)> zoo.add_animal(animal_5)
 pry(main)> zoo.animal_hash
 #=> {
 "C" => [#<Animal:0x00007fccd383c2d0...>],
-"D" => [#<Animal:0x00007f23d297dc30...>, #<Animal:0x00007fccd297dc30...>],
+"D" => [#<Animal:0x00007fccd297dc30...>, #<Animal:0x00007fccd297dc30...>],
 "R" => [#<Animal:0x00007fccd2985f48...>],
 "S" => [#<Animal:0x00007fccd29b5720...>]
 }
